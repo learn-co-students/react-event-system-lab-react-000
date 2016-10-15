@@ -9,7 +9,7 @@ class EyesOnMe extends React.Component{
   }
 
   good(){
-    console.log('Good')
+    console.log('Good!')
   }
   payAttention(){
     console.log('Hey! Eyes on me!')
@@ -24,4 +24,4 @@ class EyesOnMe extends React.Component{
   }
 }
 
-module.extends = EyesOnMe
+module.exports = EyesOnMe
